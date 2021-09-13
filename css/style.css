@@ -22,23 +22,13 @@ p {
 
 img {
     display: block;
-    opacity: 0;
-    float: right;
+    margin: 0 auto;
 }
 
-img:hover {
-    opacity: 100%;
+ul {
+    list-style: none;
 }
 
 .opacity {
     opacity: 20%;
-}
-
-ul {
-    padding: 0;
-}
-
-li {
-    margin: 0;
-    list-style: none;
 }
